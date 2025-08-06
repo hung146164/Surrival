@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 701e344cc88d4e848aeb74b778123198
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8930622483500923728
+    second: ProgressFill_Exp_0
+  - first:
+      213: -526458072272010771
+    second: ProgressFill_Exp_1
+  - first:
+      213: 733308191937284251
+    second: ProgressFill_Exp_2
+  - first:
+      213: -6283529417685050438
+    second: ProgressFill_Exp_3
+  - first:
+      213: -1664298894014389226
+    second: ProgressFill_Exp_4
+  - first:
+      213: -5829391678945685321
+    second: ProgressFill_Exp_5
+  - first:
+      213: 2811540522893418691
+    second: ProgressFill_Exp_6
+  - first:
+      213: -4085255202207816794
+    second: ProgressFill_Exp_7
+  - first:
+      213: 4495057300081667255
+    second: ProgressFill_Exp_8
+  - first:
+      213: -2521082481290626990
+    second: ProgressFill_Exp_9
+  - first:
+      213: 8062923047414978928
+    second: ProgressFill_Exp_10
+  - first:
+      213: 341109096395885579
+    second: ProgressFill_Exp_11
+  - first:
+      213: -1213092123788858774
+    second: ProgressFill_Exp_12
+  - first:
+      213: 2461696819364868712
+    second: ProgressFill_Exp_13
+  - first:
+      213: 1721924549073392959
+    second: ProgressFill_Exp_14
+  - first:
+      213: -1857287447818497733
+    second: ProgressFill_Exp_15
+  - first:
+      213: 8976883687190759293
+    second: ProgressFill_Exp_16
+  - first:
+      213: -3072259735098648658
+    second: ProgressFill_Exp_17
+  - first:
+      213: 629850858230403598
+    second: ProgressFill_Exp_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProgressFill_Exp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b703015d1ffeb70800000000000000
+      internalID: 8930622483500923728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1071d2c25a1b8f0800000000000000
+      internalID: -526458072272010771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 17
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b984e435aeb3d2a00800000000000000
+      internalID: 733308191937284251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb5a23494b6cc8a0800000000000000
+      internalID: -6283529417685050438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 17
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614623649f837e8e0800000000000000
+      internalID: -1664298894014389226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b013d74727d91fa0800000000000000
+      internalID: -5829391678945685321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0adaa9539940720800000000000000
+      internalID: 2811540522893418691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a32697c9024e47c0800000000000000
+      internalID: -4085255202207816794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_8
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 17
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bce4607cc6a16e30800000000000000
+      internalID: 4495057300081667255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 17
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258363d27d0530dd0800000000000000
+      internalID: -2521082481290626990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079da7cdac145ef60800000000000000
+      internalID: 8062923047414978928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 17
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cc4587aecdbb400800000000000000
+      internalID: 341109096395885579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_12
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aadb1042b3a2fe0800000000000000
+      internalID: -1213092123788858774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862b3fee634b92220800000000000000
+      internalID: 2461696819364868712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_14
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f355b85114185e710800000000000000
+      internalID: 1721924549073392959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_15
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b319cf218e69936e0800000000000000
+      internalID: -1857287447818497733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_16
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 17
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d770105e62c449c70800000000000000
+      internalID: 8976883687190759293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_17
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 17
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea795b76c042d55d0800000000000000
+      internalID: -3072259735098648658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressFill_Exp_18
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e025c4ab40eadb800800000000000000
+      internalID: 629850858230403598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ProgressFill_Exp_0: 8930622483500923728
+      ProgressFill_Exp_1: -526458072272010771
+      ProgressFill_Exp_10: 8062923047414978928
+      ProgressFill_Exp_11: 341109096395885579
+      ProgressFill_Exp_12: -1213092123788858774
+      ProgressFill_Exp_13: 2461696819364868712
+      ProgressFill_Exp_14: 1721924549073392959
+      ProgressFill_Exp_15: -1857287447818497733
+      ProgressFill_Exp_16: 8976883687190759293
+      ProgressFill_Exp_17: -3072259735098648658
+      ProgressFill_Exp_18: 629850858230403598
+      ProgressFill_Exp_2: 733308191937284251
+      ProgressFill_Exp_3: -6283529417685050438
+      ProgressFill_Exp_4: -1664298894014389226
+      ProgressFill_Exp_5: -5829391678945685321
+      ProgressFill_Exp_6: 2811540522893418691
+      ProgressFill_Exp_7: -4085255202207816794
+      ProgressFill_Exp_8: 4495057300081667255
+      ProgressFill_Exp_9: -2521082481290626990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
